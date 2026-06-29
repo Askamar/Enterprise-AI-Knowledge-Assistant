@@ -1,0 +1,47 @@
+# Python virtual environments & cache
+venv/
+.venv/
+env/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.tox/
+
+# Node.js dependencies & logs
+node_modules/
+frontend/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# Production build outputs
+dist/
+frontend/dist/
+
+# Local configuration & environment secrets
+.env
+*.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Application data & persistent storage (contains sensitive files, database, and cache)
+backend/uploads/
+backend/chroma_db/
+backend/models_cache/
+backend/data/
+
+# IDE & OS-specific files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
