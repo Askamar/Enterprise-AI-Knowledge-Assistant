@@ -12,7 +12,10 @@ An enterprise-ready Retrieval-Augmented Generation (RAG) platform where users ca
 - **Premium UI**: Modern, dark glassmorphic interface with loading animations and responsive controls.
 
 ---
+##Screenshot Output Of the working project
+<img width="1919" height="871" alt="Screenshot 2026-06-29 181114" src="https://github.com/user-attachments/assets/7138d50a-275a-49ce-ab1f-687e5e2ebf10" />
 
+---
 ## Quick Start Guide
 
 ### Prerequisites
